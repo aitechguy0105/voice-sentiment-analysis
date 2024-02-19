@@ -1,0 +1,5 @@
+venv/*
+*.swp
+out.wav
+**/__pycache__/
+data/models/*
